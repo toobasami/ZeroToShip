@@ -60,26 +60,25 @@ Logged-in User == Latest Paragraph Author
 If the condition is true, editor access is granted.
 
 ---
-
 ## Project Structure
 
+```text
 Phase-2
 │
 ├── models
-│ └── User.h
-│ └── User.cpp
+│   ├── User.h
+│   └── User.cpp
 │
 ├── services
-│ ├── Auth.h
-│ ├── Auth.cpp
-│ ├── Database.h
-│ └── Database.cpp
+│   ├── Auth.h
+│   ├── Auth.cpp
+│   ├── Database.h
+│   └── Database.cpp
 │
 ├── story_db.json
 ├── manual_test.cpp
 └── README.md
-
----
+```
 
 ## Compilation
 
