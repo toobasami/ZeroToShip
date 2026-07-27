@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "Tooba",
+      "email": "tooba@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "1",
+      "text": "Once upon a time there was a dragon.",
+      "author": "Tooba",
+      "order_num": "1"
+    }
+  ],
+  "pitches": [
+    {
+      "id": "1",
+      "target_order_num": "1",
+      "text": "The dragon met a knight.",
+      "author": "Ali",
+      "status": "Pending"
+    }
+  ]
+}
