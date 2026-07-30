@@ -1,0 +1,35 @@
+{
+  "users": [
+  ],
+  "paragraphs": [
+    {
+      "id": "1",
+      "text": "Pitch Two",
+      "author": "Sara",
+      "order_num": "4"
+    }
+  ],
+  "pitches": [
+    {
+      "id": "1",
+      "target_order_num": "4",
+      "text": "Pitch One",
+      "author": "Ali",
+      "status": "Rejected"
+    },
+    {
+      "id": "2",
+      "target_order_num": "4",
+      "text": "Pitch Two",
+      "author": "Sara",
+      "status": "Accepted"
+    },
+    {
+      "id": "3",
+      "target_order_num": "4",
+      "text": "Pitch Three",
+      "author": "Ahmed",
+      "status": "Rejected"
+    }
+  ]
+}
